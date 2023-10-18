@@ -26,4 +26,4 @@ return res.status(statuscode).json({
     message,
     statuscode,
 })
-})
+});
